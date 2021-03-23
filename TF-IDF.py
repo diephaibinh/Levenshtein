@@ -4,7 +4,7 @@ import math
 import string
 
 
-STOPWORD_FILE_PATH = './topword.txt'
+STOPWORD_FILE_PATH = './stopword.txt'
 TEXT_FILE_PATH = './test.txt'
 VNCORENLP_FILE_PATH = 'VnCoreNLP/VnCoreNLP-1.1.1.jar'
 
